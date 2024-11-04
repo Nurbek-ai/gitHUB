@@ -1,0 +1,41 @@
+What is information technology?
+ What is information technology?
+/nInformation technology (IT) is the use of computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to the technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications.
+ Information technology (IT) is the use of computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to the technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications.
+/n
+ 
+/nHarvard Business Review coined the term information technology in 1958 to distinguish between purpose-built machines designed to perform a limited scope of functions and general-purpose computing machines that could be programmed for various tasks. As the IT industry evolved from the mid-20th century, computing capability increased, while device cost and energy consumption decreased, a cycle that continues today when new technologies emerge.
+ Harvard Business Review coined the term information technology in 1958 to distinguish between purpose-built machines designed to perform a limited scope of functions and general-purpose computing machines that could be programmed for various tasks. As the IT industry evolved from the mid-20th century, computing capability increased, while device cost and energy consumption decreased, a cycle that continues today when new technologies emerge.
+/n
+ 
+/nTypes of information technology
+ Types of information technology
+/nInformation technology encompasses a wide range of technologies and systems that are used to store, retrieve, process and transmit data for specific use cases.
+ Information technology encompasses a wide range of technologies and systems that are used to store, retrieve, process and transmit data for specific use cases.
+/n
+ 
+/nCommon information technology types include the following:
+ Common information technology types include the following:
+/n
+ 
+/nInternet and web technologies. This includes the tools and protocols used to access, navigate and interact with information on the internet. Examples include web browsers, websites, web servers, Hypertext Markup Language, cascading style sheets, JavaScript, HTTP and other internet-related technologies.
+ Internet and web technologies. This includes the tools and protocols used to access, navigate and interact with information on the internet. Examples include web browsers, websites, web servers, Hypertext Markup Language, cascading style sheets, JavaScript, HTTP and other internet-related technologies.
+/nCloud computing. This involves the delivery of computing resources and services over the internet on a pay-per-use basis. This can include infrastructure as a service, platform as a service, software as a service and cloud storage options.
+ Cloud computing. This involves the delivery of computing resources and services over the internet on a pay-per-use basis. This can include infrastructure as a service, platform as a service, software as a service and cloud storage options.
+/nDatabases. This includes IT systems and software used to store, organize and retrieve data. Examples include MySQL, NoSQL, relational database management systems and MongoDB.
+ Databases. This includes IT systems and software used to store, organize and retrieve data. Examples include MySQL, NoSQL, relational database management systems and MongoDB.
+/nArtificial intelligence and machine learning. AI and ML-based IT technologies use algorithms and statistical models to enable computers to perform tasks that typically require human intelligence. Examples include speech recognition, image recognition and natural language processing.
+ Artificial intelligence and machine learning. AI and ML-based IT technologies use algorithms and statistical models to enable computers to perform tasks that typically require human intelligence. Examples include speech recognition, image recognition and natural language processing.
+/nCybersecurity. This type of IT includes technologies and best practices designed to protect IT systems, networks and data from unauthorized access, cyber attacks and other security threats. Cybersecurity can be enforced through firewalls, antivirus software, encryption, intrusion detection systems and security policies.
+ Cybersecurity. This type of IT includes technologies and best practices designed to protect IT systems, networks and data from unauthorized access, cyber attacks and other security threats. Cybersecurity can be enforced through firewalls, antivirus software, encryption, intrusion detection systems and security policies.
+/nInternet of things. This includes the network of interconnected devices and sensors that collect, exchange and analyze data. IoT technologies enable the integration of physical objects into computer systems, providing automation, monitoring and control in various domains.
+ Internet of things. This includes the network of interconnected devices and sensors that collect, exchange and analyze data. IoT technologies enable the integration of physical objects into computer systems, providing automation, monitoring and control in various domains.
+/nIT governance. This involves making policies and rules for the organization to ensure effective operation.
+ IT governance. This involves making policies and rules for the organization to ensure effective operation.
+/nData analytics and business intelligence. BI focuses on tools and techniques for extracting insights from large data sets to support decision-making and business operations. This can include data mining, statistical analysis, data visualization and predictive modeling.
+ Data analytics and business intelligence. BI focuses on tools and techniques for extracting insights from large data sets to support decision-making and business operations. This can include data mining, statistical analysis, data visualization and predictive modeling.
+/nWhat does information technology encompass?
+ What does information technology encompass?
+/nThe IT department ensures that the organization's systems, networks, applications, data and information all connect and function properly. The IT team handles the following three major areas:I think this info will be useful
+ The IT department ensures that the organization's systems, networks, applications, data and information all connect and function properly. The IT team handles the following three major areas:I think this info will be useful
+/n
